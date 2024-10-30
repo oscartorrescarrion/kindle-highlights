@@ -858,3 +858,63 @@ INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
 
 Mercenaries build whatever they're told to build. Missionaries are true believers in the vision and are committed to solving problems for their customers. In a dedicated product team, the team acts and feels a lot like a startup within the larger company, and that's very much the intention.
 ==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 41 | posición 629-630 | Añadido el lunes, 31 de agosto de 2015 1:20:25
+
+Further, your industry is constantly moving, and we must create products for where the market will be tomorrow, not where it was yesterday.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 42 | posición 635-637 | Añadido el lunes, 31 de agosto de 2015 1:22:53
+
+To summarize, these are the four critical contributions you need to bring to your team: deep knowledge (1) of your customer, (2) of the data, (3) of your business and its stakeholders, and (4) of your market and industry.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 54 | posición 828-832 | Añadido el viernes, 11 de septiembre de 2015 20:25:14
+
+Do whatever you need to do to have your designer sit next to you. Include your designer from the very inception of every idea. Include your designer in as many customer and user interactions as possible. Learn about the users and customers together. Fight your temptation to provide your designer with your own design ideas. Give your designer as much room as possible to solve the design challenges him or herself.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 57 | posición 867-871 | Añadido el viernes, 11 de septiembre de 2015 20:30:34
+
+One last thing to keep in mind: the morale of the engineers is very much a function of you as the product manager. It is your job to make sure they feel like missionaries and not mercenaries. You do this by involving them deeply in the customer pain you are trying to solve and in the business problems you face. Don't try to shelter them from this—instead, share these problems and challenges very openly with them. They will respect you more for it, and, in most cases, the developers will rise to the challenge.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 74 | posición 1129-1131 | Añadido el viernes, 11 de septiembre de 2015 21:06:42
+
+The product leader should be expert on modern forms of product planning, customer discovery, product discovery, and product development process, but execution also means that they know how to work effectively as part of an organization of your size.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 75 | posición 1136-1139 | Añadido el viernes, 11 de septiembre de 2015 21:07:58
+
+A strong product culture means that the team understands the importance of continuous and rapid testing and learning. They understand that they need to make mistakes in order to learn, but they need to make them quickly and mitigate the risks. They understand the need for continuous innovation. They know that great products are the result of true collaboration. They respect and value their designers and engineers. They understand the power of a motivated product team.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 97 | posición 1476-1478 | Añadido el viernes, 11 de septiembre de 2015 21:42:47
+
+I define product roadmap as a prioritized list of features and projects your team has been asked to work on. These product roadmaps are usually done on a quarterly basis, but sometimes they are a rolling three months, and some companies do annual roadmaps.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 98 | posición 1503-1504 | Añadido el viernes, 11 de septiembre de 2015 21:45:51
+
+The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 100 | posición 1519-1521 | Añadido el viernes, 11 de septiembre de 2015 21:47:52
+
+If we can prototype and test ideas with users, customers, engineers, and business stakeholders in hours and days—rather than in weeks and months—it changes the dynamics, and most important, the results.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 101 | posición 1548-1550 | Añadido el viernes, 11 de septiembre de 2015 21:51:16
+
+The idea behind business objectives is simple enough: tell the team what you need them to accomplish and how the results will be measured, and let the team figure out the best way to solve the problems.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 102 | posición 1550-1554 | Añadido el viernes, 11 de septiembre de 2015 21:52:18
+
+Consider this example of a business objective and a measurable, key result. Suppose your product currently requires 30 days for a new customer to onboard. But in order to scale effectively, management believes this needs to be reduced to three hours or less. That's a good example of a business objective for one or more product teams: “Dramatically reduce the time it takes for a new customer to go live.” And one of the measurable key results would be “Average new customer onboarding time less than three hours.”
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 102 | posición 1557-1558 | Añadido el viernes, 11 de septiembre de 2015 21:54:11
+
+It is management's responsibility to provide each product team with the specific business objectives they need to tackle.
+==========
