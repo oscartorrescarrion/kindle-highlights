@@ -918,3 +918,98 @@ INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
 
 It is management's responsibility to provide each product team with the specific business objectives they need to tackle.
 ==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 103 | posición 1573-1575 | Añadido el sábado, 19 de septiembre de 2015 2:11:55
+
+There are a few product teams out there that have modified their product roadmaps so that each item is stated as a business problem to solve rather than the feature or project that may or may not solve it. These are called outcome‐based roadmaps.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 105 | posición 1597-1599 | Añadido el sábado, 19 de septiembre de 2015 2:15:31
+
+The key is to understand that the root cause of all this grief about commitments is when these commitments are made. They are made too early. They are made before we know whether we can deliver on this obligation, and even more important, whether what we deliver will solve the problem for the customer.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 108 | posición 1649-1651 | Añadido el sábado, 19 de septiembre de 2015 2:20:13
+
+For consumer‐focused companies, we often structure each product/market fit around a different customer or user persona. For example, an education‐related service might have a strategy that targets high school students first, college students next, and then those already working
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 109 | posición 1668-1670 | Añadido el sábado, 19 de septiembre de 2015 2:22:09
+
+For a product team to be empowered and act with any meaningful degree of autonomy, the team must have a deep understanding of the broader context. This starts with a clear and compelling product vision, and the path to achieving that vision is the product strategy.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 111 | posición 1698-1700 | Añadido el sábado, 19 de septiembre de 2015 2:24:28
+
+Start with why. This is coincidentally the name of a great book on the value of product vision by Simon Sinek. The central notion here is to use the product vision to articulate your purpose. Everything follows from that.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 113 | posición 1730-1732 | Añadido el sábado, 19 de septiembre de 2015 2:27:34
+
+Focus on one target market or persona at a time. Don't try to please everyone in a single release. Focus on one new target market, or one new target persona, for each release. You'll find that the product will still likely be useful to others, but at least it will be loved by some, and that's key.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 114 | posición 1747-1748 | Añadido el sábado, 19 de septiembre de 2015 2:29:09
+
+Where the product vision describes the future you want to create, and the product strategy describes your path to achieving that vision, the product principles speak to the nature of the products you want to create.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 115 | posición 1752-1756 | Añadido el sábado, 19 de septiembre de 2015 2:30:09
+
+As an example, early on at eBay we found we needed a product principle that spoke to the relationship between buyers and sellers. Most of the revenue came from sellers, so we had a strong incentive to find ways to please sellers, but we soon realized that the real reason sellers loved us was because we provided them with buyers. This realization led to a critical principle that stated, “In cases where the needs of the buyers and the sellers conflict, we will prioritize the needs of the buyer, because that's actually the most important thing we can do for sellers.”
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 133 | posición 2028-2029 | Añadido el domingo, 27 de septiembre de 2015 0:50:45
+
+the purpose of product discovery is to make sure we have some evidence that when we ask the engineers to build a production‐quality product, it won't be a wasted effort.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 134 | posición 2043-2047 | Añadido el domingo, 27 de septiembre de 2015 0:52:45
+
+The purpose of product discovery is to address these critical risks: Will the customer buy this, or choose to use it? (Value risk) Can the user figure out how to use it? (Usability risk) Can we build it? (Feasibility risk) Does this solution work for our business? (Business viability risk)
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 137 | posición 2088-2090 | Añadido el domingo, 27 de septiembre de 2015 0:59:11
+
+If the first time your developers see an idea is at sprint planning, you have failed. We need to ensure the feasibility before we decide to build, not after. Not only does this end up saving a lot of wasted time, but it turns out that getting the engineer's perspective earlier also tends to improve the solution itself, and it's critical for shared learning.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 137 | posición 2092-2095 | Añadido el domingo, 27 de septiembre de 2015 0:59:59
+
+Similarly, it is absolutely critical to ensure that the solution we build will meet the needs of our business—before we take the time and expense to build out that product. Business viability includes financial considerations, marketing (both brand and go‐to‐market considerations), sales, legal, business development, and senior executives.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 146 | posición 2225-2226 | Añadido el lunes, 28 de septiembre de 2015 3:13:25
+
+A startup canvas for those times you're creating an entirely new product line or a new business.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 147 | posición 2249-2254 | Añadido el lunes, 28 de septiembre de 2015 3:23:49
+
+An opportunity assessment is an extremely simple technique but can save you a lot of time and grief. The idea is to answer four key questions about the discovery work you are about to undertake: What business objective is this work intended to address? (Objective) How will you know if you've succeeded? (Key results) What problem will this solve for our customers? (Customer problem) What type of customer are we focused on? (Target market)
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 158 | posición 2414-2416 | Añadido el martes, 29 de septiembre de 2015 2:21:31
+
+Many teams I know consider a high‐fidelity user prototype and a story map as their go‐to techniques. Another must‐read book for product managers: User Story Mapping: Discover the Whole Story, Build the Right Product, by Jeff Patton
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 159 | posición 2437-2439 | Añadido el martes, 29 de septiembre de 2015 2:23:30
+
+Please believe me when I say that there are few things more powerful to a product organization than reference customers. It is the single best sales tool you can provide to your sales and marketing organization, and it completely changes the dynamics between the product organization and the rest of the company.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 161 | posición 2454-2458 | Añadido el martes, 29 de septiembre de 2015 2:25:20
+
+There are four main variations of this technique for four different situations: Building products for businesses Building platform products (e.g., public APIs) Building customer‐enabling tools used by employees of your company Building products for consumers
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 161 | posición 2466-2468 | Añadido el martes, 29 de septiembre de 2015 2:26:39
+
+For products and services aimed at businesses, I was taught years ago that the key number is six reference customers. This is not meant to be statistically significant—it is meant to instill confidence—and I have found that number has held up over time.
+==========
+INSPIRED: How to Create Tech Products Customers Love (Cagan, Marty)
+- Tu subrayado en la página 165 | posición 2519-2522 | Añadido el martes, 29 de septiembre de 2015 2:32:32
+
+That said, if you find you are having real trouble recruiting even four or five prospective customers for this effort, then it's very possible you're chasing a problem that isn't that important, and you will almost certainly have a very hard time selling this product. This is one of the very first reality checks (aka demand validation) to make sure you're spending your time on something worthwhile.
+==========
